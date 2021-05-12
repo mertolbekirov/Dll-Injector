@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Dll Injecector.cpp">
+    <ClCompile Include="Dll Injector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
