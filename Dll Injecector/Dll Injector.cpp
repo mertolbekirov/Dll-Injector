@@ -3,8 +3,6 @@
 #include <TlHelp32.h>
 #include <string>
 
-#define MAX_LENGTH
-
 DWORD GetProcId(const char* procName) {
     DWORD procId = 0;
     HANDLE hSnap = CreateToolhelp32Snapshot(TH32CS_SNAPPROCESS, 0);
